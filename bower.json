@@ -1,0 +1,20 @@
+{
+  "name": "bower-learn-h5",
+  "authors": [
+    "kangmingfei <kangmingfei@163.com>"
+  ],
+  "description": "bower learn",
+  "main": "",
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^3.1.0"
+  }
+}
